@@ -1,6 +1,6 @@
 # Instructions
 
-In this assignment, you will familiarize yourself with two common **version control** workflows using **`git`** and **GitHub**: (1) a **centralized workflow** and (2) a branch-based (a.k.a. feature based) workflow.
+In this assignment, you will familiarize yourself with two common **version control** workflows using **`git`** and **GitHub**: (1) a **centralized workflow** and (2) a branch-based (a.k.a. feature based) workflow. You will also practice creating Issues on Github and linking them to the PRs implementing them.
 
 With the centralized workflow, you will set up a **remote** repository on GitHub and a **local** **cloned** **repository** for your own project and practice **pushing** and **pulling** to/from this remote repository on the main branch.
 
