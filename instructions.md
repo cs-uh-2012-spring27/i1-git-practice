@@ -77,4 +77,5 @@ To practice issues, your new feature is about adding a table to your ARTICLE.md 
 1. Follow the branch-based development flow from part 2 to create a new branch for this new feature.
 2. When you open a PR to merge this branch into main, make sure to reference the issue you created in the PR description (e.g., "Resolves Issue #NUM")
 3. Merge the PR
-4. Don't forget to switch back to main and pull the changes locally!
+4. Close the issue to signal that the work has been completed.
+5. Don't forget to switch back to main and pull the changes locally!
